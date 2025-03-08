@@ -23,8 +23,8 @@
 
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/fridah-karimi-a0240b237)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)]([https://twitter.com/yourhandle](https://x.com/FridahK17605437))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/fridah-karimi-a0240b237]) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)]([https://x.com/FridahK17605437])  
 
 
 
